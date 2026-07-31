@@ -1086,6 +1086,7 @@
 |   |   |-- SANS Holiday Hack Challenge
 |   |   |-- PortSwigger Web Security Academy (https://portswigger.net/web-security)
 |   |   |-- Root Me (https://www.root-me.org)
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon): open source (GPL-3.0) autonomous AI pentest platform, self-hosted, to train safely on legal labs like OWASP Juice Shop, DVWA, kubernetes-goat and Hack The Box; covers web, API, Active Directory and Kubernetes.
 |   |   |-- Hack The Box Academy (https://academy.hackthebox.com)
 |   |-- Programming Skills
 |   |   |-- Python
